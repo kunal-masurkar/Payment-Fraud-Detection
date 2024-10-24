@@ -34,7 +34,7 @@ How to Run
 2. Navigate to the project folder and run the Jupyter notebook:
    jupyter notebook Online_Payment_Fraud_Detection.ipynb
    
-3. Ensure you have the dataset (credit_data.csv) in the correct location before running the        notebook.
+3. Ensure you have the dataset (credit_data.csv) in the correct location. (The dataset used here is https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 Dataset
   The dataset used in this project (credit_data.csv) contains credit card transaction details, with a target column (Class) indicating whether a transaction is fraudulent (1) or non-fraudulent (0).
